@@ -88,3 +88,5 @@ Eclipse中代码补全功能可以避免输入较长内容而不慎写错，使�
 
 # 4. 技术分享
 
+终于完成vuepress博客配置和部署，访问[地址](https://my-blog.yestolife.vercel.app/)。配置过程[参考此文](https://juejin.im/post/5b8e526051882542a82baba6)，配置过程中侧边导航栏配置有点复杂，可以参考[官网文档](https://vuepress.vuejs.org/zh/theme/default-theme-config.html#侧边栏)。注意本地跑起来后，放在vercel上build，配置命令参数为：`yarn global add vuepress && yarn init -y && yarn docs:build `，输出目录设置为：`/docs/.vuepress/dist`。以后写博客简单了，直接上传markdown文件到github，再修改一下侧边栏导航的配置即可，具体配置参数见我的[github](https://github.com/yestolife/my_blog/blob/master/docs/.vuepress/config.js)。
+
