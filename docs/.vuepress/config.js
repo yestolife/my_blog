@@ -57,6 +57,7 @@ module.exports = {
 				['/ARTS/ARTS打卡19', 'ARTS打卡19-微习惯的力量'],
 				['/ARTS/ARTS打卡20', 'ARTS打卡20-部署vuepress博客'],
 				['/ARTS/ARTS打卡21', 'ARTS打卡21-vupress博客可以访问了'],
+				['/ARTS/ARTS打卡22', 'ARTS打卡22-给网站添加全局搜索'],
               ]
             },
           ]
