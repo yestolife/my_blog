@@ -59,6 +59,7 @@ module.exports = {
 				['/ARTS/ARTS打卡21', 'ARTS打卡21-vupress博客可以访问了'],
 				['/ARTS/ARTS打卡22', 'ARTS打卡22-给网站添加全局搜索'],
 				['/ARTS/ARTS打卡23', 'ARTS打卡23-Python自带迷你数据库'],
+				['/ARTS/ARTS打卡24', 'ARTS打卡24-初探任务调度'],
               ]
             },
           ]
