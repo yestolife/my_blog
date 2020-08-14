@@ -12,7 +12,13 @@ module.exports = {
     sidebarDepth: 2, // e'b将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
     lastUpdated: 'Last Updated' // 文档更新时间：每个文件git最后提交的时间
   },
-  
+  themeConfig: {
+    algolia: {
+      appId: "JW6A7D9FTI", //当你使用的是自建algolia服务器或者API调用时需要填写此项,否则会报错invaild apikey or IndexName
+      apiKey: "6ce2bea7483d5bf481c1b0fbecc9d3d7", //填写你的Search-Only API Key
+      indexName: "test", //填写你的index名称,Indices >>>> 你的application名 >>>> Copy Index Name
+    },
+  },
   themeConfig: {
     nav:[
       { text: 'ARTS打卡', link: '/ARTS/' }, // 内部链接 以docs为根目录
