@@ -68,6 +68,7 @@ module.exports = {
 				['/ARTS/ARTS打卡24', 'ARTS打卡24-初探任务调度'],
 				['/ARTS/ARTS打卡25', 'ARTS打卡25-搭建网页全文搜索'],
 				['/ARTS/ARTS打卡26', 'ARTS打卡26-Python实现自动化报表'],
+				['/ARTS/ARTS打卡27', 'ARTS打卡27-可视化管理Docker容器'],
               ]
             },
           ]
