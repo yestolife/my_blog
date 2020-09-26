@@ -72,6 +72,7 @@ module.exports = {
 				['/ARTS/ARTS打卡28', 'ARTS打卡28-找到数据源'],
 				['/ARTS/ARTS打卡29', 'ARTS打卡29-重拾机器学习'],
 				['/ARTS/ARTS打卡30', 'ARTS打卡30-别轻视简约的JSON'],
+				['/ARTS/ARTS打卡31', 'ARTS打卡31-像松鼠一样敏捷的Flink流处理'],
               ]
             },
           ]
