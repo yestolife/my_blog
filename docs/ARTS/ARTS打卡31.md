@@ -41,5 +41,5 @@ Flink是Apache基金会的顶级开源项目，大有取代Hadoop、Spark之势�
 初级的Flink操作完成后，研究一些解决实际问题。如何解决Kafka消费入库到Hbase中？有[kafka+flink+hbase数据整合案例参考](https://www.cnblogs.com/smartloli/p/10245105.html)，也可以用成熟的方案[华为云DLI组件实现跨源连接](https://support.huaweicloud.com/devg-dli/dli_09_0150.html)。
 
 
-<script src="https://my.openwrite.cn/js/readmore.js" type="text/javascript"></script>  <script> const btw = new BTWPlugin(); btw.init({ id: 'container', blogId: '24169-1601654159088-962', name: 'Andytl的世界', qrcode: 'http://mp.weixin.qq.com/rr?timestamp=1601653977&src=3&ver=1&signature=jHnpcLX6S7DtSllwj2Pc35x77NBc3aG2P2foAx1gXpxq1R8yjdxhK3fLaSUhEnfT5e2G4VcmVfLRXHVX1AtXL5gfub0vRANkSEvpFr8G9sU=', keyword: 'get', }); </script>
+
 
