@@ -75,6 +75,7 @@ module.exports = {
 				['/ARTS/ARTS打卡31', 'ARTS打卡31-像松鼠一样敏捷的Flink流处理'],
 				['/ARTS/ARTS打卡32', 'ARTS打卡32-Flink与Python更配'],
 				['/ARTS/ARTS打卡33', 'ARTS打卡33-Flink SQL流计算初探'],
+				['/ARTS/ARTS打卡34', 'ARTS打卡34-使用Jenkins自动化构建项目'],
               ]
             },
           ]
