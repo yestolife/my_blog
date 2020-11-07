@@ -78,6 +78,7 @@ module.exports = {
 				['/ARTS/ARTS打卡34', 'ARTS打卡34-使用Jenkins自动化构建项目'],
 				['/ARTS/ARTS打卡35', 'ARTS打卡35-极速体验Hbase'],
 				['/ARTS/ARTS打卡36', 'ARTS打卡36-初识小程序'],
+				['/ARTS/ARTS打卡37', 'ARTS打卡37-初探Ajax技术'],
               ]
             },
           ]
